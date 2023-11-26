@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshatSingh-spx
-- 👀 I’m interested in Data Science , AI/ML , Cyber Secuirty.
+- 👀 I’m interested in Data Science , AI/ML , Cyber Secuirty, Coding.
 - 🌱 I'm currently doing my bachelor in Computer Application From Amity University .
 - 💞️ I'm actively seeking opportunities to collaborate on projects and contribute to open-source initiatives. Here are a few areas I'm interested in:
 
